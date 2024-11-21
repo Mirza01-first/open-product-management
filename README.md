@@ -401,6 +401,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Agile Uprising Podcast](http://podcast.agileuprising.com/) - They cover all topics associated with Agile. From the Manifesto, to the frameworks, to the values and principles.
 - [ ] [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
 - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
+- [ ] [The Product manager](https://theproductmanager.com/) - Discover the tools, strategies, and inspiration you need to scale your products and teams, secure your next round of funding, and expand your market reach to push beyond the competition.
 
 ## Online Courses
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
